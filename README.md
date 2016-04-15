@@ -1,5 +1,8 @@
 # HTML Introduction Exercise
 
+0. Fork this repo and clone it to your computer.
+   You can verify this by seeing your GitHub username in the URL and not `gschool`.
+
 0. Create a new file named `cities.html`. Make sure it includes an [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html), [head](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head), and [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body). (then, commit your changes!)
 
 0. Make an [unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) all of the cities you've lived in. (then, commit your changes!)
