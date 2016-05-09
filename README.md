@@ -15,7 +15,7 @@
 
 0. In the list of cities you've visited, add a [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span) at the end of each city with any [HTML character entity](https://developer.mozilla.org/en-US/docs/Glossary/Entity) and a short summary of why the city is on the list. (...then, commit your changes!)
 
-![](imagines/unstyled.png)
+![](images/unstyled.png)
 
 ## Stretch
 
