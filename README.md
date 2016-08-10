@@ -1,5 +1,7 @@
 ##My Solution
+
 Demo build of a student project for a full-stack web dev course
+
 Deployed on [surge](html-cities.surge.sh)
 
 # HTML Introduction Exercise
