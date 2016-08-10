@@ -1,0 +1,17 @@
+* {
+  background-color: #6D81A3;
+  color: #052090;
+}
+
+.mainMedia {
+  padding: 20px;
+  margin: 0 auto;
+}
+button {
+  background-color: grey;
+  margin: 10px;
+}
+
+ol>li:nth-child(odd){
+    font-weight:bold;
+}​
