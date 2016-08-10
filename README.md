@@ -1,3 +1,5 @@
+###Deployed on [surge](html-cities.surge.sh)
+
 # HTML Introduction Exercise
 
 0. Fork this repo and clone it to your computer.
